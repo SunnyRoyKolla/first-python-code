@@ -42,7 +42,7 @@ The second command opens Jupyter notebook on Chrome/other browser.
 **10) Installing datascience libraries**
 > Top Data science libraries: https://towardsdatascience.com/top-10-python-libraries-for-data-science-cd82294ec266
 >> Pandas. 
-
+>>
 >> NumPy. 
 >> 
 >> SciPy 
@@ -60,6 +60,8 @@ The second command opens Jupyter notebook on Chrome/other browser.
 >> Statsmodels 
 >> 
 >> PLotly 
+
+**11) Running first python program using Jupyter notebook**
 
 
 
